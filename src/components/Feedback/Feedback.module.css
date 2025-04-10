@@ -1,0 +1,8 @@
+.feedbackContainer {
+    padding: 14px;
+    width: fit-content;
+}
+
+.feedbackContainer p {
+    margin: 5px 0;
+}
